@@ -1,3 +1,3 @@
 # menu-card
 link
-https://rositasikarwar.github.io/menu-card/
+https://rositasikarwar.github.io/Drinks-Qriscan/
